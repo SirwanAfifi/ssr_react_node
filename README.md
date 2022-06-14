@@ -1,0 +1,2 @@
+- `yarn dev:client`
+- `yarn dev:server`
